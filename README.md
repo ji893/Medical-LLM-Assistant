@@ -8,3 +8,8 @@ PDF 의료 문서를 벡터 데이터베이스로 변환하여 증상 기반 질
 프론트엔드는 Streamlit으로 구성되어 있어 질문 입력, 입력 예시 제공, 질문 자동 완성 응답, 출력 등의 기능을 제공한다. 전체 시스템은 하나의 Python 스크립트 내에서 통합적으로 작동하며, PDF 문서 처리에는 PyMuPDF 기반의 PyPDFLoader를 사용하고, 임베딩 처리에는 OpenAI의 text-embedding-3-small 모델을 활용한다.
 
 증상 키워드를 포함한 테스트 질의를 통해 FAISS 검색 결과의 적합성을 검증하고, GPT-4-o가 생성한 응답의 관련성과 자연스러움을 확인하였다. 또한 Streamlit 인터페이스에서의 작동 흐름과 안정성도 점검하였다.
+
+![이미지1](./images/image1.jpg)  
+![이미지2](./images/image2.jpg)  
+![이미지3](./images/image3.jpg)  
+
