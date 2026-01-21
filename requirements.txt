@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain_community
+langchain_openai
+langchain_core
+langchain-text-splitters
+pypdf
+pdfplumber
+pymupdf
+python-dotenv
+faiss-cpu
