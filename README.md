@@ -9,7 +9,7 @@ PDF 의료 문서를 벡터 데이터베이스로 변환하여 증상 기반 질
 
 증상 키워드를 포함한 테스트 질의를 통해 FAISS 검색 결과의 적합성을 검증하고, GPT-4-o가 생성한 응답의 관련성과 자연스러움을 확인하였다. 또한 Streamlit 인터페이스에서의 작동 흐름과 안정성도 점검하였다.
 
-![이미지1](./images/image1.jpg)  
-![이미지2](./images/image2.jpg)  
-![이미지3](./images/image3.jpg)  
+![이미지1](./images/image1.png)  
+![이미지2](./images/image2.png)  
+![이미지3](./images/image3.png)  
 
